@@ -23,7 +23,7 @@
        <name>name</name>
        <type>varchar</type>
        <title>Group Name</title>
-       <length>64</length>
+       <length>255</length>
        <comment>Internal name of Group.</comment>
        <add>1.1</add>
   </field>
@@ -31,7 +31,7 @@
        <name>title</name>
        <type>varchar</type>
        <title>Group Title</title>
-       <length>64</length>
+       <length>255</length>
        <localizable>true</localizable>
        <comment>Name of Group.</comment>
        <add>1.1</add>
